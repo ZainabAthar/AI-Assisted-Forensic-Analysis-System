@@ -6,7 +6,6 @@ altair==6.0.0
 annotated-doc==0.0.4
 anyio==4.12.1
 attrs==25.4.0
-audioop-lts==0.2.2
 audioread==3.1.0
 banal==1.0.6
 blinker==1.9.0
