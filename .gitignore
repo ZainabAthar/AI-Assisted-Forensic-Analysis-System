@@ -1,0 +1,10 @@
+temp_ui/*
+*.pth
+*.pth.tar
+*cache*
+logs/
+<<<<<<< HEAD
+audioproc/checkpoints_new/
+=======
+
+>>>>>>> 4ccc026 (Deployment Ready)
